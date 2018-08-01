@@ -1,0 +1,6 @@
+framework module XVIEWMobManager {
+  umbrella header "XVIEWMobManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

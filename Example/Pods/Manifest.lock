@@ -1,0 +1,16 @@
+PODS:
+  - XVIEWMobManager (0.1.0)
+
+DEPENDENCIES:
+  - XVIEWMobManager (from `../`)
+
+EXTERNAL SOURCES:
+  XVIEWMobManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XVIEWMobManager: 7c13d7b4f239eea84dd7ed25814a00989dd3d63c
+
+PODFILE CHECKSUM: 575e61e41df0c35ff41422a29aba4e507bcf713d
+
+COCOAPODS: 1.5.3

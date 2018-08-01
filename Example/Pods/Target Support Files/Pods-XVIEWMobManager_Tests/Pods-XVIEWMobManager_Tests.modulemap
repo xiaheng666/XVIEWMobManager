@@ -1,0 +1,6 @@
+framework module Pods_XVIEWMobManager_Tests {
+  umbrella header "Pods-XVIEWMobManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
