@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XVIEWMobManager_Example' do
+  pod 'XVIEWMobManager', :path => '../'
+
+  target 'XVIEWMobManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
