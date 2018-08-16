@@ -1,6 +1,6 @@
 {
   "name": "XVIEWMobManager",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "友盟统计",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/xiaheng666/XVIEWMobManager",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "git@github.com:xiaheng666/XVIEWMobManager.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"
